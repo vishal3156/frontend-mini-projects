@@ -6,7 +6,7 @@ A collection of small frontend projects built with **HTML, CSS, and JavaScript**
 
 | #  | Project Name          | Live Demo | Source Code |
 |----|----------------------|-----------|-------------|
-| 1️⃣  | Responsive Profile Card |
+| 1️⃣  | Qr Code |             | [Live](#) | [Code](./qr-code) |
 | 2️⃣  | Custom Navbar         | [Live](#) | [Code](./custom-navbar) |
 | 3️⃣  | Image Slider          | [Live](#) | [Code](./image-slider) |
 | 4️⃣  | Form Validation       | [Live](#) | [Code](./form-validation) |
