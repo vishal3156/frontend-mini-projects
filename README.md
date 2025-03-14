@@ -6,11 +6,11 @@ A collection of small frontend projects built with **HTML, CSS, and JavaScript**
 
 | #  | Project Name          | Live Demo | Source Code |
 |----|----------------------|-----------|-------------|
-| 1️⃣  | Qr Code |             | [Live](#) | [Code](./qr-code) |
-| 2️⃣  | Custom Navbar         | [Live](#) | [Code](./custom-navbar) |
-| 3️⃣  | Image Slider          | [Live](#) | [Code](./image-slider) |
-| 4️⃣  | Form Validation       | [Live](#) | [Code](./form-validation) |
-| 5️⃣  | Modal Popup           | [Live](#) | [Code](./modal-popup) |
+| 1️⃣  | Qr Code |              | [Live](#) | [Code](./qr-code) |
+| 2️⃣  | --------               | [Live](#) | [Code]|
+| 3️⃣  | --------               | [Live](#) | [Code]|
+| 4️⃣  | --------               | [Live](#) | [Code]|
+| 5️⃣  | --------               | [Live](#) | [Code]|
 
 ## 🛠️ Tech Stack
 - **HTML** 🏗️
