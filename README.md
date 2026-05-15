@@ -6,7 +6,7 @@ A collection of small frontend projects built with **HTML, CSS, and JavaScript**
 
 | #  | Project Name          | Live Demo | Source Code |
 |----|----------------------|-----------|-------------|
-| 1️⃣  | Qr Code |              | [Live](#) | [Code](./qr-code) |
+| 1️⃣  | Profile card |         | [Live](#) | [Code]|
 | 2️⃣  | --------               | [Live](#) | [Code]|
 | 3️⃣  | --------               | [Live](#) | [Code]|
 | 4️⃣  | --------               | [Live](#) | [Code]|
